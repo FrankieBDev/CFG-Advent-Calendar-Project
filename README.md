@@ -1,5 +1,6 @@
-# christmas-cfg-project
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MollyRushton/christmas-cfg-project"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/MollyRushton/christmas-cfg-project"><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/MollyRushton/christmas-cfg-project">
+## :star::star::star: This project was awarded 'Best Group Project' for our cohort.  :star::star::star:
+
+# Christmas Code First Girls Web Dev Project
 
 ---
 :link:
